@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.genruntimeconfig.cache

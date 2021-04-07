@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\03. Guild_Skeleton\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

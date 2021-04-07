@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.genruntimeconfig.cache

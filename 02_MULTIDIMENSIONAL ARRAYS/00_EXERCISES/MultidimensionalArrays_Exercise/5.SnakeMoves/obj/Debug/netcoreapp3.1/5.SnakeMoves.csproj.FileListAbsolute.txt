@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.genruntimeconfig.cache

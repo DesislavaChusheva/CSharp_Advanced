@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\bin\Debug\netcoreapp3.1\02.CarExtension.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Lab\02.CarExtension\obj\Debug\netcoreapp3.1\02.CarExtension.genruntimeconfig.cache

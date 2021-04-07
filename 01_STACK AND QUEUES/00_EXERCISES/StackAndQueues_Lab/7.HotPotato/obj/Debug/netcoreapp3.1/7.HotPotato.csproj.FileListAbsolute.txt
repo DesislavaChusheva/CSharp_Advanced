@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.genruntimeconfig.cache

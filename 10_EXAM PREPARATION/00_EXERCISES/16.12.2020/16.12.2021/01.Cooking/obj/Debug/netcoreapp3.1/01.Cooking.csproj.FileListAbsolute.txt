@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.genruntimeconfig.cache

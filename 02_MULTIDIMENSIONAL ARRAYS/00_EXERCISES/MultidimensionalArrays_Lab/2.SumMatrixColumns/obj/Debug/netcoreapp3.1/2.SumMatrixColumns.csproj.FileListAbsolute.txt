@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.genruntimeconfig.cache

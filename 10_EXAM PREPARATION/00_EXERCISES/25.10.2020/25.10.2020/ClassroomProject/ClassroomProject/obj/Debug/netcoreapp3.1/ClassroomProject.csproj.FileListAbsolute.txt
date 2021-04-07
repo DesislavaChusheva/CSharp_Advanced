@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

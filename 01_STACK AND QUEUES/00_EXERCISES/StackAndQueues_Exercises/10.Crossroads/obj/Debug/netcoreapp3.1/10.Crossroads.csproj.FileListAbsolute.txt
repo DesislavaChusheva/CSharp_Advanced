@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\bin\Debug\netcoreapp3.1\01.FlowerWreath.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\bin\Debug\netcoreapp3.1\01.FlowerWreath.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\bin\Debug\netcoreapp3.1\01.FlowerWreath.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\bin\Debug\netcoreapp3.1\01.FlowerWreath.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\bin\Debug\netcoreapp3.1\01.FlowerWreath.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\bin\Debug\netcoreapp3.1\01.FlowerWreath.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\01.FlowerWreath\obj\Debug\netcoreapp3.1\01.FlowerWreath.genruntimeconfig.cache

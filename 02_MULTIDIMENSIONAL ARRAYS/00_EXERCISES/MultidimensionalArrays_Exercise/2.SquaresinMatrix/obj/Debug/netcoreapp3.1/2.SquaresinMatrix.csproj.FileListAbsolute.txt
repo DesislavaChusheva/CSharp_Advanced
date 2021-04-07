@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\bin\Debug\netcoreapp3.1\2.SquaresinMatrix.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\bin\Debug\netcoreapp3.1\2.SquaresinMatrix.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\bin\Debug\netcoreapp3.1\2.SquaresinMatrix.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\bin\Debug\netcoreapp3.1\2.SquaresinMatrix.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\bin\Debug\netcoreapp3.1\2.SquaresinMatrix.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\bin\Debug\netcoreapp3.1\2.SquaresinMatrix.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\2.SquaresinMatrix\obj\Debug\netcoreapp3.1\2.SquaresinMatrix.genruntimeconfig.cache

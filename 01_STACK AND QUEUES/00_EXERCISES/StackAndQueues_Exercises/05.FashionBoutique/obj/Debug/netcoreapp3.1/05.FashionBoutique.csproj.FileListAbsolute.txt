@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\01_STACK AND QUEUES\00_EXERCISES\StackAndQueues_Exercises\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.genruntimeconfig.cache

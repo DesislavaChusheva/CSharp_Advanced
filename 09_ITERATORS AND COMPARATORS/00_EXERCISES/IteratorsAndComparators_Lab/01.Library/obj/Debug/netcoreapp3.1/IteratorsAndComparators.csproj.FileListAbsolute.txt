@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\09_ITERATORS AND COMPARATORS\00_EXERCISES\IteratorsAndComparators_Lab\01.Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache

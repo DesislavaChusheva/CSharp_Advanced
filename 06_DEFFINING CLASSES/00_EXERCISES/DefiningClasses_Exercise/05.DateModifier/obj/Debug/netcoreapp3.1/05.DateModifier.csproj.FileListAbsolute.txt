@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.genruntimeconfig.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.csprojAssemblyReference.cache

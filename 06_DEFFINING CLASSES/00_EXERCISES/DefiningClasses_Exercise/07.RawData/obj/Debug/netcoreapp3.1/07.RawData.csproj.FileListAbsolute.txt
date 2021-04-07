@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.genruntimeconfig.cache

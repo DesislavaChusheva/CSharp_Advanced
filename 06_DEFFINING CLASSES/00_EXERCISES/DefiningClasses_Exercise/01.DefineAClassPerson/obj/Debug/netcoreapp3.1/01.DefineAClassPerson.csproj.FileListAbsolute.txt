@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\06_DEFFINING CLASSES\00_EXERCISES\DefiningClasses_Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.genruntimeconfig.cache

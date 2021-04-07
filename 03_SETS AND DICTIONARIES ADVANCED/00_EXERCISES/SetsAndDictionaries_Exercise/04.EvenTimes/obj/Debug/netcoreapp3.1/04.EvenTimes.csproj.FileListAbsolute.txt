@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.genruntimeconfig.cache

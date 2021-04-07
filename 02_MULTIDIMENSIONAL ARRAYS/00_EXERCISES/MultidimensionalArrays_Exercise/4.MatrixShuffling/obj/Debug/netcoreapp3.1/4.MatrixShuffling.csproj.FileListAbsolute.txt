@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.genruntimeconfig.cache

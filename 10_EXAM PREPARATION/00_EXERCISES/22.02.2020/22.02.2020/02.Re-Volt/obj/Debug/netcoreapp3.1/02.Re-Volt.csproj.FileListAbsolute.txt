@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.genruntimeconfig.cache

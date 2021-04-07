@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\bin\Debug\netcoreapp3.1\02.KnightsofHonor.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\bin\Debug\netcoreapp3.1\02.KnightsofHonor.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\bin\Debug\netcoreapp3.1\02.KnightsofHonor.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\bin\Debug\netcoreapp3.1\02.KnightsofHonor.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\bin\Debug\netcoreapp3.1\02.KnightsofHonor.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\bin\Debug\netcoreapp3.1\02.KnightsofHonor.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\02.KnightsofHonor\obj\Debug\netcoreapp3.1\02.KnightsofHonor.genruntimeconfig.cache

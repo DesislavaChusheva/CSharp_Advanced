@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\03_SETS AND DICTIONARIES ADVANCED\00_EXERCISES\SetsAndDictionaries_Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.genruntimeconfig.cache

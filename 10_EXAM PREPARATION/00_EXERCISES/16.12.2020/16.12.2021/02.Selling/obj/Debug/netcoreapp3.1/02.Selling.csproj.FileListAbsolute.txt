@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\16.12.2020\16.12.2021\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.genruntimeconfig.cache

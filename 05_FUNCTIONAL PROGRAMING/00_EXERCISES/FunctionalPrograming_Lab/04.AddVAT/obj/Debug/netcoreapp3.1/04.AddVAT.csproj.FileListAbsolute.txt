@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.genruntimeconfig.cache

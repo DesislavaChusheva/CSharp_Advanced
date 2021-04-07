@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\25.10.2020\25.10.2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.genruntimeconfig.cache

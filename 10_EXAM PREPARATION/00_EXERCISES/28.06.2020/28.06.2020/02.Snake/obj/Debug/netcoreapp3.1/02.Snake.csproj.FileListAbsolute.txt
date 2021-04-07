@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\28.06.2020\28.06.2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache

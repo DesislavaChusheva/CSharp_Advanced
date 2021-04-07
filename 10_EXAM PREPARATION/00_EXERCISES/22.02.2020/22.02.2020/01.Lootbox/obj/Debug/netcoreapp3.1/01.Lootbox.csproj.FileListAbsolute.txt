@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\22.02.2020\22.02.2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.genruntimeconfig.cache

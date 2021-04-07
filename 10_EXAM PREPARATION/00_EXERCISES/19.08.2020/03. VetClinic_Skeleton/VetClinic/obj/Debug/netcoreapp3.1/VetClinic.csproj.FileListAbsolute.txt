@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\10_EXAM PREPARATION\00_EXERCISES\19.08.2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

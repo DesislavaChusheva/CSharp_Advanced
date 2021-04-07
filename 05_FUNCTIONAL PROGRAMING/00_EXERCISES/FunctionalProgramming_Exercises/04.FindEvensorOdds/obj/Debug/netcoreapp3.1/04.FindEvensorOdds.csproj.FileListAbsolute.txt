@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\bin\Debug\netcoreapp3.1\04.FindEvensorOdds.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\bin\Debug\netcoreapp3.1\04.FindEvensorOdds.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\bin\Debug\netcoreapp3.1\04.FindEvensorOdds.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\bin\Debug\netcoreapp3.1\04.FindEvensorOdds.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\bin\Debug\netcoreapp3.1\04.FindEvensorOdds.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\bin\Debug\netcoreapp3.1\04.FindEvensorOdds.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\04.FindEvensorOdds\obj\Debug\netcoreapp3.1\04.FindEvensorOdds.genruntimeconfig.cache

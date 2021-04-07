@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalProgramming_Exercises\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\05_FUNCTIONAL PROGRAMING\00_EXERCISES\FunctionalPrograming_Lab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.genruntimeconfig.cache

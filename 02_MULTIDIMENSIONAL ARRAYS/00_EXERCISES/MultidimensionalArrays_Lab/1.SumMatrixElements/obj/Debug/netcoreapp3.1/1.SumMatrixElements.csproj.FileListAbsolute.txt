@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\bin\Debug\netcoreapp3.1\1.SumMatrixElements.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\bin\Debug\netcoreapp3.1\1.SumMatrixElements.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\bin\Debug\netcoreapp3.1\1.SumMatrixElements.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\bin\Debug\netcoreapp3.1\1.SumMatrixElements.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\bin\Debug\netcoreapp3.1\1.SumMatrixElements.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\bin\Debug\netcoreapp3.1\1.SumMatrixElements.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\00_ADVANCED\02_MULTIDIMENSIONAL ARRAYS\00_EXERCISES\MultidimensionalArrays_Lab\1.SumMatrixElements\obj\Debug\netcoreapp3.1\1.SumMatrixElements.genruntimeconfig.cache
